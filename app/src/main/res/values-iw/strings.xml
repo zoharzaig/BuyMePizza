@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Buy Me a Pizza</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find_me">מצא אותי</string>
+    <string name="share_my_location">שתף את המיקום שלי</string>
+    <string name="location_denied">לא ניתנה הרשאת מיקום</string>
+    <string name="location_enabled">ניתנה הרשאת מיקום</string>
+    <string name="contacts_denied">לא ניתנה הרשאה לגשת לאנשי קשר</string>
+    <string name="contacts_enabled">ניתנה הרשאה לגשת לאנשי קשר</string>
+    <string name="location_service_off">אנחנו לא מצליחים לאתר אותך, יכול להיות ששירותי המיקום שלך כבויים?</string>
+
+
+</resources>
